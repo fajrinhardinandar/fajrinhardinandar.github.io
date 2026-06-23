@@ -1,101 +1,90 @@
+```yaml
 cv:
-name: Fajrin Hardinandar
-label: Development Economist | Inequality and Political Economy Scholar
-email: [fhardinandar@gmail.com](mailto:fhardinandar@gmail.com)
-location: Hualien, Taiwan
-image: ""
-summary: >
-Fajrin Hardinandar is a doctoral student at National Dong Hwa University,
-Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
-His research focuses on inequality studies, applied international trade,
-empirical economics, institutional economics, development economics,
-and applied policy analysis in the Asian context.
+  name: Fajrin Hardinandar
+  label: Development Economist | Asian Political Economy Scholars
+  email: fhardinandar@gmail.com
+  location: Hualien, Taiwan
+  image: ""
+  summary: >
+    Fajrin Hardinandar is a doctoral student at National Dong Hwa University,
+    Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
+    His research focuses on inequality studies, applied international trade,
+    institutional economics, and applied policy analysis in the Asian context.
+   
+  social_networks:
+    - network: GitHub
+      username: fajrinhardinandar
+    - network: Google Scholar
+      username: dfzVQ7MAAAAJ
 
-social_networks:
-- network: GitHub
-username: fajrinhardinandar
-- network: Google Scholar
-username: dfzVQ7MAAAAJ
+  sections:
+    Contact Details:
+      - name: Email
+        details: fhardinandar@gmail.com
+      - name: Institutional Email
+        details: 811342008@gms.ndhu.edu.tw
 
-sections:
-Contact Details:
-- name: Email
-details: [fhardinandar@gmail.com](mailto:fhardinandar@gmail.com)
-- name: Institutional Email
-details: [811342008@gms.ndhu.edu.tw](mailto:811342008@gms.ndhu.edu.tw)
+    Education:
+      - institution: National Dong Hwa University
+        location: Hualien, Taiwan
+        area: Applied International Trade, Applied Economics, Inequality, Deglobalization, Asian Context
+        studyType: Ph.D. Student
+        start_date: 2024
+        end_date: Present
+        highlights:
+          - MOE Elite Ph.D. Students Award
+          - NDHU Excellent Scholarship
 
-```
-Education:
-  - institution: National Dong Hwa University
-    location: Hualien, Taiwan
-    area: Applied International Trade, Applied Economics, Deglobalization, Asian Context
-    studyType: Ph.D. Student
-    start_date: 2024
-    end_date: Present
-    highlights:
-      - MOE Elite Ph.D. Students Award
-      - NDHU Excellent Scholarship
+      - institution: Universitas Diponegoro
+        location: Indonesia
+        area: Regional Economics
+        studyType: Master of Economics
+        start_date: ""
+        end_date: ""
+        highlights:
+          - Master of Economics
 
-  - institution: Universitas Diponegoro
-    location: Indonesia
-    area: Regional Economics
-    studyType: Master of Economics
-    start_date: ""
-    end_date: ""
-    highlights:
-      - Master of Economics
+    Experience:
+      - company: Universitas Muhammadiyah Bima
+        position: Lecturer
+        location: Bima, Indonesia
+        start_date: ""
+        end_date: Present
+        highlights:
+          - Lecturer in the Faculty of Law and Economics, Universitas Muhammadiyah Bima
+      - company: Institute of Social Economics Finance and Digital
+        position: Researcher
+        location: Central Java, Indonesia
+        start_date: ""
+        end_date: Present
+        highlights:
+          - Conducts policy-oriented research on regional development and -macro-socioeconomic issues
+          
+    Publications:
+      - title: "Prosperity and Income Inequality Dynamics in Selected ASEAN Countries: How the Rule of Law Moderates"
+        authors:
+          - Fajrin Hardinandar
+          - Yu-Li Wang
+        publisher: Asian Development Review
+        releaseDate: 2026
+        url: https://doi.org/10.1142/S0116110526500058
+        summary: Published in Asian Development Review, Volume 43, Issue 2.
 
-Experience:
-  - company: Universitas Muhammadiyah Bima
-    position: Lecturer
-    location: Bima, Indonesia
-    start_date: ""
-    end_date: Present
-    highlights:
-      - Lecturer in the Faculty of Law and Economics
-      - Teaching and research interests include development economics, inequality, regional economics, and political economy
+    Skills:
+      - name: Empirical Methods
+        keywords: "Panel Data, IV/2SLS, Shift-Share Bartik"
 
-  - company: LPPP Mandiri
-    position: Senior Researcher
-    location: Bima, Indonesia
-    start_date: ""
-    end_date: Present
-    highlights:
-      - Conducts policy-oriented research on regional development and socioeconomic issues
+      - name: Software
+        keywords: "R, Stata, LaTeX"
 
-  - company: Institute of Social Economics Finance and Digital
-    position: Public Policy Researcher
-    location: Central Java, Indonesia
-    start_date: ""
-    end_date: Present
-    highlights:
-      - Researcher in social economics, finance, digital transformation, and public policy
+    Languages:
+      - name: Indonesian
+        summary: Native
 
-Publications:
-  - title: "Prosperity and Income Inequality Dynamics in Selected ASEAN Countries: How the Rule of Law Moderates"
-    authors:
-      - Fajrin Hardinandar
-      - Yu-Li Wang
-    publisher: Asian Development Review
-    releaseDate: 2026
-    url: https://doi.org/10.1142/S0116110526500058
-    summary: Published in Asian Development Review, Volume 43, Issue 2.
+      - name: English
+        summary: Professional working proficiency
 
-Skills:
-  - name: Empirical Methods
-    keywords: "Panel Data, IV/2SLS, Shift-Share Bartik"
-
-  - name: Software
-    keywords: "R, Stata, LaTeX"
-
-Languages:
-  - name: Indonesian
-    summary: Native
-
-  - name: English
-    summary: Professional working proficiency
-
-Interests:
-  - name: Research Interests
-    keywords: "Income inequality, poverty, applied international trade, institutional economics, political economy, regional development, public policy, applied econometrics"
+    Interests:
+      - name: Research Interests
+        keywords: "Income inequality, poverty, applied international trade, institutional economics, political economy, regional development, public policy, applied econometrics"
 ```
