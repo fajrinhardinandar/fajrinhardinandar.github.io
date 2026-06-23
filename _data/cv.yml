@@ -1,33 +1,31 @@
 cv:
   name: Fajrin Hardinandar
-  label: "Development Economist | Asian Political Economy Scholar"
-  email: fhardinandar@gmail.com
+  headline: "Development Economist | Asian Political Economy Scholar"
   location: Hualien, Taiwan
-  image: ""
-  summary: >
-    Fajrin Hardinandar is a doctoral student at National Dong Hwa University,
-    Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
-    His research focuses on inequality studies, applied international trade,
-    institutional economics, and applied policy analysis in the Asian context.
-
+  email: fhardinandar@gmail.com
   social_networks:
     - network: GitHub
       username: fajrinhardinandar
     - network: Google Scholar
       username: dfzVQ7MAAAAJ
-
   sections:
+    Professional Summary:
+      - Fajrin Hardinandar is a doctoral student at National Dong Hwa University, Taiwan, and a lecturer at Universitas Muhammadiyah Bima, Indonesia.
+      - His research focuses on inequality studies, applied international trade, institutional economics, and applied policy analysis in the Asian context.
+
     Contact Details:
-      - "Email: fhardinandar@gmail.com"
-      - "Institutional email: 811342008@gms.ndhu.edu.tw"
+      - label: Email
+        details: fhardinandar@gmail.com
+      - label: Institutional email
+        details: 811342008@gms.ndhu.edu.tw
 
     Education:
       - institution: National Dong Hwa University
         location: Hualien, Taiwan
         area: Applied International Trade, Applied Economics, Inequality, Deglobalization, Asian Context
-        studyType: Ph.D. Student
+        degree: Ph.D. Student
         start_date: 2024
-        end_date: Present
+        end_date: present
         highlights:
           - MOE Elite Ph.D. Students Award
           - NDHU Excellent Scholarship
@@ -35,9 +33,7 @@ cv:
       - institution: Universitas Diponegoro
         location: Indonesia
         area: Regional Economics
-        studyType: Master of Economics
-        start_date: ""
-        end_date: ""
+        degree: Master of Economics
         highlights:
           - Master of Economics
 
@@ -45,16 +41,14 @@ cv:
       - company: Universitas Muhammadiyah Bima
         position: Lecturer
         location: Bima, Indonesia
-        start_date: ""
-        end_date: Present
+        end_date: present
         highlights:
           - Lecturer in the Faculty of Law and Economics, Universitas Muhammadiyah Bima
 
       - company: Institute of Social Economics Finance and Digital
         position: Researcher
         location: Central Java, Indonesia
-        start_date: ""
-        end_date: Present
+        end_date: present
         highlights:
           - Conducts policy-oriented research on regional development and macro-socioeconomic issues
 
@@ -63,25 +57,29 @@ cv:
         authors:
           - Fajrin Hardinandar
           - Yu-Li Wang
-        publisher: Asian Development Review
-        releaseDate: 2026
-        url: "https://doi.org/10.1142/S0116110526500058"
+        journal: Asian Development Review
+        date: 2026
+        doi: 10.1142/S0116110526500058
         summary: Published in Asian Development Review, Volume 43, Issue 2.
 
     Skills:
-      - name: Empirical Methods
-        keywords: "Panel Data, IV/2SLS, Shift-Share Bartik"
-
-      - name: Software
-        keywords: "R, Stata, LaTeX"
+      - label: Empirical Methods
+        details: Panel Data, IV/2SLS, Shift-Share Bartik
+      - label: Software
+        details: R, Stata, LaTeX
 
     Languages:
-      - name: Indonesian
-        summary: Native
+      - label: Indonesian
+        details: Native
+      - label: English
+        details: Professional working proficiency
 
-      - name: English
-        summary: Professional working proficiency
-
-    Interests:
-      - name: Research Interests
-        keywords: "Income inequality, poverty, applied international trade, institutional economics, political economy, regional development, public policy, applied econometrics"
+    Research Interests:
+      - Income inequality
+      - Poverty
+      - Applied international trade
+      - Institutional economics
+      - Political economy
+      - Regional development
+      - Public policy
+      - Applied econometrics
