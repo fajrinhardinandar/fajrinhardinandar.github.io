@@ -42,40 +42,24 @@ cv:
       - company: Universitas Muhammadiyah Bima
         position: Lecturer
         location: Bima, Indonesia
-        end_date: present
+        date: Present
         highlights:
           - Lecturer in the Faculty of Law and Economics, Universitas Muhammadiyah Bima
 
       - company: Institute of Social Economics Finance and Digital
         position: Researcher
         location: Central Java, Indonesia
-        end_date: present
+        date: Present
         highlights:
           - Conducts policy-oriented research on regional development and macro-socioeconomic issues
 
-    Publications:
-      - title: "Prosperity and Income Inequality Dynamics in Selected ASEAN Countries: How the Rule of Law Moderates"
-        authors:
-          - Fajrin Hardinandar
-          - Yu-Li Wang
-        journal: Asian Development Review
-        date: 2026
-        doi: 10.1142/S0116110526500058
-        summary: Published in Asian Development Review, Volume 43, Issue 2.
-
     Skills:
-      - label: Empirical Methods
-        details: Panel Data, IV/2SLS, Shift-Share Bartik
-
-      - label: Software
-        details: R, Stata, LaTeX
+      - "Empirical Methods: Panel Data, IV/2SLS, Shift-Share Bartik"
+      - "Software: R, Stata, LaTeX"
 
     Languages:
-      - label: Indonesian
-        details: Native
-
-      - label: English
-        details: Professional working proficiency
+      - "Indonesian: Native"
+      - "English: Professional working proficiency"
 
     Research Interests:
       - Income inequality
